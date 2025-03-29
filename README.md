@@ -44,10 +44,8 @@ jupyter lab
 ```
 Create a new notebook and refer to this README while writing and executing each block of code step by step.
 
-### 3️⃣ Running the Python Script (Once Written)
-```bash
-python ncbi_sequence_analysis.py
-```
+### 3️⃣ Clone code
+Type out line by line, run codes by blocks, troubleshoot if you meet one, google If you don't understand, and feel free to ask me!
 
 ## 📊 Example Output
 
